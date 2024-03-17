@@ -5,9 +5,9 @@
 <div>
 <img src=![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangjjs)>
   </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangjjs&layout=compact)
-
+<div>
+<img src=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangjjs&layout=compact)>
+</div>
 <!--
 **kangjjs/kangjjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
