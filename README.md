@@ -2,6 +2,9 @@
 <div align="center">
 <img src=https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Welcome%20&fontAlign=52&section=header&reversal=true&animation=scaleIn&fontColor=black&fontSize=80&desc=Kangjjs's%20github&descSize=25&descAlign=58&fontAlignY=48&descAlignY=63>
 </div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangjjs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangjjs&layout=compact)
+
 <!--
 **kangjjs/kangjjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
