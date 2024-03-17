@@ -1,8 +1,7 @@
-
 <div align="center">
 <img src=https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Welcome%20&fontAlign=52&section=header&reversal=true&animation=scaleIn&fontColor=black&fontSize=80&desc=Kangjjs's%20github&descSize=25&descAlign=58&fontAlignY=48&descAlignY=63>
 </div>
-## 📞 Contact 📞
+📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:todemd12@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
