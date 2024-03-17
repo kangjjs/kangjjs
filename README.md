@@ -1,6 +1,6 @@
-### Hi there 👋
+
 <div align="center">
-https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Input%20text&fontAlign=53
+<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Input%20text&fontAlign=53">
 </div>
 <!--
 **kangjjs/kangjjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
