@@ -14,10 +14,13 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor">  
+        <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
     </div>
     <div>
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/QueryDSL-009639?style=for-the-badge&logo=querydsl&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">        
 </div><br>
 <div>
 <img src=https://github-readme-stats.vercel.app/api?username=kangjjs>
