@@ -1,42 +1,31 @@
-<div align="center">
-<img src=https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Welcome%20&fontAlign=52&section=header&reversal=true&animation=scaleIn&fontColor=black&fontSize=80&desc=Kangjjs's%20github&descSize=25&descAlign=58&fontAlignY=48&descAlignY=63>
-</div>
-📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:todemd12@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor">  
-        <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/QueryDSL-009639?style=for-the-badge&logo=querydsl&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">        
-</div><br>
-<div>
-<img src=https://github-readme-stats.vercel.app/api?username=kangjjs>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kangjjs&layout=compact>
-  </div>
-<!--
-**kangjjs/kangjjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📞 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-Here are some ideas to get you started:
+---
+## 📜 Certifications
+- 정보처리기사 (23.11 ~ )
+- SQLD (22.12 ~ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+### 🏆 **자주 사용하는 기술**
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-blue?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🛠 **한 번 이상 사용해본 기술**
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+---
+
+## 📊 My Status
+![Kangjjs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kangjjs&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangjjs&layout=compact&theme=dark)
+
